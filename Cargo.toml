@@ -1,0 +1,8 @@
+[package]
+name = "rpad"
+version = "0.1.0"
+authors = ["Valtteri Tastula <tastula@protonmail.com>"]
+
+[dependencies]
+dirs = "3.0.1"
+image = "0.23.12"

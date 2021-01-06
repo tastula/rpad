@@ -6,7 +6,7 @@ resulting image to the center of a new one. Like this!
 
 | Before             | After            |
 | ------------------ | ---------------- |
-| ![uneven logo][b1] | ![even logo][a2] |
+| ![uneven logo][b1] | ![even logo][a1] |
 
 [b1]: res/ff1.png
 [a1]: res/ff2.png
